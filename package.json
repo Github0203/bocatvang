@@ -2,7 +2,8 @@
   "name": "tour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github0203.github.com/tourmoi/",
+  "homepage": "https://github0203.github.com/bocatvang/",
+  "deploy:firebase": "npm run build && firebase deploy",	
   "dependencies": {
     "@rehooks/window-scroll-position": "^1.0.1",
     "@testing-library/jest-dom": "^5.16.2",
